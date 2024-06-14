@@ -1,3 +1,4 @@
+// Retorna el indice del elemento
 let user = {
     id: 1,
     name: 'Chanchito feliz',
