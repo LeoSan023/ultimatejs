@@ -17,7 +17,7 @@ function toPairs(arr) {
     let pairs = [];
     for ( idx in arr) {
         let elemento = arr[idx];
-        pairs[idx] = elemento.id, elemento;
+        pairs[idx] = [elemento.id, elemento];
     }
 
     return pairs;
