@@ -1,5 +1,5 @@
 /*
-    Crear algoritmo que, dado un array objectos, retorne un array de pares
+    Crear algoritmo que, dado un array objetos, retorne un array de pares
 */
 
 let arreglo = [{
